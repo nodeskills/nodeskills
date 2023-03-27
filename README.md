@@ -1,4 +1,5 @@
 ### Hello! My name is Denis. Here I will post my notes on the intricacies of node validation and other interesting activities in the field of high technology. I work as a system administrator, I have Linux skills. 👋
+![eywa1](https://user-images.githubusercontent.com/129051647/227910342-c7267a3b-89b1-4cf9-a42b-b0c97139b28b.jpg)
 
 <!--
 **nodeskills/nodeskills** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
