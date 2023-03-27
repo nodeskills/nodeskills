@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! My name is Denis. Here I will post my notes on the intricacies of node validation and other interesting activities in the field of high technology. I work as a system administrator, I have Linux skills. 👋
 
 <!--
 **nodeskills/nodeskills** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
